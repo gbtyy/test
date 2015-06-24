@@ -2,7 +2,7 @@
  * Copyright (C), 2002-2015, 苏宁易购电子商务有限公司
  * FileName: Test.java
  * Author:   13041059
- * Date:     2015-6-24 下午4:01:04
+ * Date:     2015-6-24 下午4:44:04
  * Description: //模块目的、功能描述      
  * History: Add : 2015-6-24
  * <author>      <time>      <version>    <desc>
