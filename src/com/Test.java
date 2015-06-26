@@ -6,10 +6,6 @@ public class Test {
     private int m;
     private int k;
 	
-
-
-
-
 	private int n;
 
 }
