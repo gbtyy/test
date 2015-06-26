@@ -10,6 +10,6 @@ public class Test {
 
 
 
-	private int n;
+   private int n;
 
 }
